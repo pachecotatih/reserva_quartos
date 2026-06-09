@@ -1,4 +1,4 @@
-*.java linguist-language=Java
+
 # Auto detect text files and normalize line endings to LF
 * text=auto
 
@@ -6,6 +6,7 @@
 *.java text eol=lf
 *.class binary
 *.jar binary
+*.java linguist-language=Java
 
 # Build files
 *.gradle text eol=lf
