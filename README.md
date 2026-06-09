@@ -1,6 +1,6 @@
 ## Reserva de Quartos
 
-Projetinho do curso de Java da Udemy do professor Nelio Alves
+Projetinho do curso de Java da Udemy do professor Nelio Alves aprendendo o uso de tratamento de exceções.
 
 ## Getting Started
 
